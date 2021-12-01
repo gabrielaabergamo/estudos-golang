@@ -5,6 +5,8 @@ import (
 	"reflect"
 )
 
+//https://appliedgo.net/slices/
+
 func main() {
 	//slice não é um array! é um pedaço de um array
 	a1 := [3]int{1, 2, 3} //array
